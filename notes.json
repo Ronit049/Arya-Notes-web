@@ -1,0 +1,38 @@
+{
+  "subjects": [
+    {
+      "id": "DSA",
+      "title": "DSA",
+      "notes": [
+        { "file": "assets/notes/DSA/dsa unit 2 part 2.pdf", "name": "DSA Unit 2 Part 2" },
+        { "file": "assets/notes/DSA/UNIT-1_DSA part 1.pdf", "name": "DSA Unit 1 (Part 1)" },
+        { "file": "assets/notes/DSA/UNIT-2_DSA part 1.pdf", "name": "DSA Unit 2 (Part 1)" }
+      ]
+    },
+    {
+      "id": "OOPS",
+      "title": "OOPS",
+      "notes": [
+        { "file": "assets/notes/OOPS/OOPS NOTE UNIT-I.docx", "name": "OOPS Note Unit I" },
+        { "file": "assets/notes/OOPS/OOPS NOTE UNIT-II.docx", "name": "OOPS Note Unit II" },
+        { "file": "assets/notes/OOPS/OOPS NOTES UNIT-III.docx", "name": "OOPS Notes Unit III" },
+        { "file": "assets/notes/OOPS/OOPS NOTES UNIT-IV.docx", "name": "OOPS Notes Unit IV" }
+      ]
+    },
+    {
+      "id": "Software-Engineering",
+      "title": "Software Engineering",
+      "notes": [
+        { "file": "assets/notes/Software-Engineering/Se Unit 3 Part 2.pdf", "name": "SE Unit 3 Part 2" }
+      ]
+    },
+    {
+      "id": "Digital-Electronics",
+      "title": "Digital Electronics",
+      "notes": [
+        { "file": "assets/notes/Digital-Electronics/DE Unit 1 Notes.pdf", "name": "DE Unit 1 Notes" },
+        { "file": "assets/notes/Digital-Electronics/DE unit 2 notes.pdf", "name": "DE Unit 2 Notes" }
+      ]
+    }
+  ]
+}
