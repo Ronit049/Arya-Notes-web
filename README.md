@@ -103,9 +103,3 @@ Passionate about Web Development & Open Source
 ⭐ If you like this project, give it a Star on GitHub!
 ⭐ Star this repository to support the project!
 Made with ❤️ by Ronit
-
----
-
-
-
-
