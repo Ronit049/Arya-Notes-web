@@ -67,32 +67,6 @@ Arya-Notes-web/
 
 ---
 
-## 📥 **How to Add New Notes**
-
-1. Put your file inside `assets/notes/`
-2. Update `notes.json` with:
-
-```json
-{
-  "subject": "DSA",
-  "title": "Stacks Notes",
-  "file": "assets/notes/stacks.pdf"
-}
-Push changes to GitHub:
-git add .
-git commit -m "Added stacks notes"
-git push
-🌟 Future Enhancements
-
-Add login system
-
-Add dark mode
-
-Add semester-wise notes
-
-Add PYQ papers
-
-Add admin upload panel
 
 ❤️ Author
 
