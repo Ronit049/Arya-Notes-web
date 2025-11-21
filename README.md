@@ -103,3 +103,18 @@ Passionate about Web Development & Open Source
 ⭐ If you like this project, give it a Star on GitHub!
 ⭐ Star this repository to support the project!
 Made with ❤️ by Ronit
+
+
+
+Copyright (c) 2025 Ronit Raj
+
+You are permitted to:
+ - use this repository for personal, educational, or commercial purposes,
+ - fork this repository on GitHub.
+
+You are NOT permitted to:
+ - republish, redistribute, or present this repository (or substantial parts of it) as your own work without prior written permission.
+ - remove or alter attribution to the original author in any public distribution of derived works.
+
+If you wish to redistribute in a different form, contact ronitrajrsr0409@gmail.com for permission.
+
